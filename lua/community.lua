@@ -8,7 +8,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.ansible" },
+  -- { import = "astrocommunity.pack.ansible" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.helm" },
@@ -18,5 +18,6 @@ return {
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.colorscheme.sonokai" },
   { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
+  -- { import = "astrocommunity.completion.avante-nvim" },
   -- import/override with your plugins folder
 }
