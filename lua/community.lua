@@ -21,6 +21,5 @@ return {
   { import = "astrocommunity.colorscheme.sonokai" },
   { import = "astrocommunity.colorscheme.monokai-pro-nvim" },
   { import = "astrocommunity.completion.copilot-vim" },
-  -- { import = "astrocommunity.completion.avante-nvim" },
   -- import/override with your plugins folder
 }
